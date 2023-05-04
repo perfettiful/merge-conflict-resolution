@@ -10,3 +10,5 @@
 - pizza
 - pokemons
 - whiskey
+- fine-wine
+- tomatoes
